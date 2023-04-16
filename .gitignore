@@ -1,0 +1,36 @@
+# Models
+*.pth
+
+# Logs
+*.log
+
+# Data
+data/
+synthetic_tables/
+results/
+flagged
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+__pycache__
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+
+# Exclude
+!demo/*.pth
